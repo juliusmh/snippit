@@ -1,0 +1,20 @@
+{
+  "windowPadding": 50,
+  "codePadding": 0,
+  "borderRadius": 8,
+  "fontSize": 13,
+  "font": "RobotoMono-Regular",
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#657b83",
+    "window": "#fdf6e3",
+    "lineNumber": "#666",
+    "statement": "#859900",
+    "preproc": "#859900",
+    "special": "#6c71c4",
+    "constant.string": "#2aa198",
+    "constant.specialChar": "#268bd2",
+    "constant.number": "#6c71c4",
+    "comment": "#999"
+  }
+}
