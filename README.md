@@ -25,5 +25,3 @@ snippit --syntax cpp --out snippet.svg src/main.cpp
   ![Monokai](images/monokai.png)
 - solarized-dark
   ![Solarized](images/solarized.png)
-- solarized-light
-  ![SolarizedLight](images/solarized-light.png)
