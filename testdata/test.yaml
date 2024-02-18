@@ -1,0 +1,6 @@
+on:
+  pull_request:
+    # matched against refs/heads
+    branches-ignore:    
+      - 'mona/octocat'
+      - 'releases/**-alpha'
